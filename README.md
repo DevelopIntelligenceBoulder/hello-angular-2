@@ -1,5 +1,5 @@
 # hello-angular-2
-A simple example of Hello World in Angular 2.x syntax. 
+A simple example of Hello World in [Angular 2.x](https://angular.io/) syntax. 
 
 This example isn't taking advantage of [Microsoft's Typescript](http://www.typescriptlang.org/) which is the language of choice when writing Angular 2.x applications. 
 
@@ -35,7 +35,7 @@ An event listener is created to manually bootstrap the Angular component when th
 An Angular component is placed within the DOM.
 
 ## Instructions
-1. Install NodeJS
+1. Install [NodeJS](https://nodejs.org/)
 2. Run `npm start` to get the application running on the web server
     * Packages needed for this application will be installed (i.e.  Express)
     * The Node/Express Web Server will start
