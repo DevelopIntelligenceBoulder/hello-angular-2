@@ -21,7 +21,7 @@ This example shows how to take a model property defined in a Component and popul
 ### Within the main.js
 The application namespace is created. It is a simple JavaScript namespace that the Angular 2.0 component will be attached too.
 
-### Within the home.js
+### Within the hello.js
 A model property `place` has been added to the component instance via `this`. Why? Components in Angular 2.0 are simply objects created via constructors. 
 
 A component annotation is attached to the JavaScript object, marking it as an Angular component and specifying its custom tag selector. 
