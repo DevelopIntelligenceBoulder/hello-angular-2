@@ -39,4 +39,4 @@ An Angular component is placed within the DOM.
 2. Run `npm start` to get the application running on the web server
     * Packages needed for this application will be installed (i.e.  Express)
     * The Node/Express Web Server will start
-3. Go to `http://localhost:8080` in your web browser
+3. Go to `http://localhost:8080/src/` in your web browser
