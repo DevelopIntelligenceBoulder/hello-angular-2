@@ -1,7 +1,7 @@
 # hello-angular-2
 A simple example of Hello World in [Angular 2.x](https://angular.io/) syntax. Built upon Angular 2 beta.
 
-This example isn't taking advantage of [Microsoft's Typescript](http://www.typescriptlang.org/) which is the language of choice when writing Angular 2.x applications. 
+This example isn't taking advantage of [Microsoft's Typescript](http://www.typescriptlang.org/) which is the language of choice when writing Angular 2.x applications. Here is a [repo](https://github.com/DevelopIntelligenceBoulder/hello-angular-2-typescript) utilizing Typescript.
 
 There are a couple of options to utilize Angular 2.x without Typescript. 
 
