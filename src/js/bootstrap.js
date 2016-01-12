@@ -3,7 +3,7 @@
 
 	//Bootstrap Angular component when the DOM is ready
 	document.addEventListener('DOMContentLoaded', function() {
-		angular.bootstrap(DI.App.Hello);
+		ng.platform.browser.bootstrap(DI.App.HelloApp);
 	});
 
 })();

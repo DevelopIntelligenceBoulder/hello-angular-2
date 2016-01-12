@@ -1,16 +1,21 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Hello World: Angular 2.x</title>
+		<title>Hello World: Angular 2.x - Beta</title>
 	</head>
 	<body>
 	
 		<di-hello></di-hello>
 
-		<!-- At alpha.30 the angular namespace is removed forcing the use of TypeScript
-   new angular.ComponentAnnotation({}) bombs :( -->
-		<!-- script src="http://code.angularjs.org/2.0.0-alpha.28/angular2.sfx.dev.js"></script -->
-		<script src="js/libs/angular2.sfx.dev.js"></script>
+		<!-- 3rd party libraries -->
+		<!-- Gives Observables to for Angular-->
+		<script src="js/libs/Rx.umd.js"></script>
+		<!-- Combination of zone.js & reflect-metadata -->
+		<script src="js/libs/angular2-polyfills.js"></script>
+		<!-- Angular 2 -->
+		<script src="js/libs/angular2-all.umd.dev.js"></script>
+
+		<!-- Application files-->
 		<script src="js/main.js"></script>
 		<script src="components/hello.js"></script>
 		<script src="js/bootstrap.js"></script>
