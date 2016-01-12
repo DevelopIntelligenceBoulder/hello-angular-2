@@ -10,6 +10,9 @@ There are a couple of options to utilize Angular 2.x without Typescript.
     * Download the Rx.umd.js
     * Download the angular2-polyfills.js
     * Download the angular2-all.umd.dev.js
+2. Install the dependencies via [npm](https://www.npmjs.com/)
+    * npm install angular2
+    * npm install rxjs
 
 ## What is this?
 This example shows how to create an Angular Component. It takes a model property defined in a Controller Class and populate it within an Component Template.
@@ -33,7 +36,7 @@ An Angular component is placed within the DOM. Usually there will be one top-lev
 ## Instructions
 1. Install [NodeJS](https://nodejs.org/)
 2. Run `npm start` to get the application running on the web server
-    * Packages needed for this application will be installed (i.e.  Express)
+    * Packages needed for this application will be installed (i.e.  Express, Angular, RxJS)
     * The Node/Express Web Server will start
 3. Go to `http://localhost:8080/src/` in your web browser
 4. You can try this out in this [Plunker](http://plnkr.co/edit/8u0foD?p=preview)
