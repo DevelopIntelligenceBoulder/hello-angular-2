@@ -36,7 +36,7 @@ An Angular component is placed within the DOM. Usually there will be one top-lev
     * Packages needed for this application will be installed (i.e.  Express)
     * The Node/Express Web Server will start
 3. Go to `http://localhost:8080/src/` in your web browser
-4. You can try this out in this [Plunker](http://plnkr.co/edit/XlkCTN?p=preview)
+4. You can try this out in this [Plunker](http://plnkr.co/edit/8u0foD?p=preview)
 
 ##Where to go from here?
 [DevelopIntelligence](http://www.developintelligence.com/) offers a variety of [classes on Angular](http://www.developintelligence.com/catalog/web-development-training/angularjs). Check out [Advanced AngularJS](http://www.developintelligence.com/catalog/web-development-training/angularjs/advanced-angularjs-development) or the [AngularJS Boot Camp](http://www.developintelligence.com/catalog/web-development-training/angularjs/angularjs-boot-camp) to get your team up to speed.
