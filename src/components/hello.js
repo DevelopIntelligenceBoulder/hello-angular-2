@@ -4,7 +4,6 @@
 	/**
 	 * Angular 2.0 Component to create Hello World.
 	 **/
-	//Create an Angular Component
 	DI.App.HelloApp =
 		ng.core
 			.Component({
