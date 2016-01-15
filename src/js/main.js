@@ -1,9 +1,10 @@
 (function() {
-	'use strict';
+'use strict';
 
-	//Angular 2.x
-	//Creating Application namespace
-	window.DI = window.DI || {};
-	DI.App = DI.App || {};
+// Angular 2.x namespacing
+// Creating application namespace
+window.DI = window.DI || {};
+// Creating corporate namespace
+DI.App = DI.App || {};
 
 })();
