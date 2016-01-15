@@ -1,9 +1,9 @@
 (function() {
-	'use strict';
+'use strict';
 
-	//Bootstrap Angular component when the DOM is ready
-	document.addEventListener('DOMContentLoaded', function() {
-		ng.platform.browser.bootstrap(DI.App.HelloApp);
-	});
+//Bootstrap Angular component when the DOM is ready
+document.addEventListener('DOMContentLoaded', function() {
+	ng.platform.browser.bootstrap(DI.App.HelloApp);
+});
 
 })();
